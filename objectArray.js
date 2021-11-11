@@ -41,3 +41,8 @@ for (let i = 0; i < djur.length; i++) {
     }
     console.log(djur[i]);
 }
+
+
+function per () {
+    console.log('funktionen per')
+}
